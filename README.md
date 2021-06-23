@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David!
+Hi, I’m David!
 
 <!---
 JustCallMeDavid/JustCallMeDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
