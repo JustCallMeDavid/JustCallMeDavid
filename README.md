@@ -1,1 +1,1 @@
-2025+ moved to GitLab (https://gitlab.com/d_sawyer)
+2025+ moved to GitLab
